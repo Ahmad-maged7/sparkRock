@@ -1,0 +1,11 @@
+# Node.js dependencies
+node_modules/
+
+# Playwright's test results and other generated files
+test-results/
+
+# Log files
+*.log
+
+# Playwright trace files
+*.trace
